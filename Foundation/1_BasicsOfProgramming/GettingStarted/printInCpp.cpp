@@ -10,6 +10,7 @@ int main(){
 
     // keyword - cout
     // << - Insertion Operator
+    // >> - Extraction Operator
     // Everything inside "Double Quotes" Prints as it is.
     // Just like fullstop in english we have semicolon ';' in programming
     cout<<"hello world\n";
